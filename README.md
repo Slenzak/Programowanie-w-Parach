@@ -1,4 +1,5 @@
-Aplikacja do zarządzania zdrowiem psychicznym Grupy 1,5,9
+Aplikacja do zarządzania zdrowiem psychicznym Grupy 1,5,9 
+
 Opis: Aplikacja, która łączy funkcje relaksacyjne z funkcjami śledzenia nastroju i rozwoju osobistego. Może oferować ćwiczenia oddechowe, techniki mindfulness, opcję zapisu dziennika emocji oraz personalizowane porady dostosowane do stanu użytkownika.
 Funkcje:
 Dziennik nastroju z analizą trendów
