@@ -43,16 +43,16 @@
                 new string[]
                 {
                     "Najważniejszą decyzją, jaką podejmujesz, jest bycie w dobrym nastroju",
-                    "This is kinda Positive2",
-                    "This isn't Positive4 cause its kinda Positive3"
+                    "Nie ma niczego trwalszego niż tymczasowość",
+                    "Nigdy nie bój się wyznaczyć sobie zbyt wysokich celów; nawet jeśli nie osiągniesz ich, będziesz miał coś wartościowego"
                 }
             },
             {   2,
                 new string[]
                 {
-                    "This is Positive1",
-                    "This is Positive2",
-                    "This isn't Positive4 cause its Positive3"
+                    "Nie czekaj. Pora nigdy nie będzie idealna.",
+                    "Nie chodzi o to, ile masz, ale ile czerpiesz z tego, co masz.",
+                    "Nie pozwól przeszłości posiąść twojego obecnego stanu emocjonalnego"
                 }
             }
 
