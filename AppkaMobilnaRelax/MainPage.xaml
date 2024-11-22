@@ -6,23 +6,24 @@
 			 Title="mood tracker">
 
 
-	<StackLayout Padding="20" Spacing="10">
-		<Label Text="Jak się dziś czujesz?" FontSize="Large" HorizontalOptions="Center" />
-		<Picker x:Name="MoodPicker">
-			<Picker.ItemsSource>
-				<x:Array Type="{x:Type x:String}">
-					<x:String>Okropny</x:String>
-					<x:String>Zły</x:String>
-					<x:String>Średni</x:String>
-					<x:String>Dobry</x:String>
-					<x:String>Fantastyczny</x:String>
-				</x:Array>
-			</Picker.ItemsSource>
-		</Picker>
-		<Button Text="Zapisz nastrój" Clicked="OnSaveMoodClicked" />
-		<Label x:Name="TrendLabel" FontSize="Medium" TextColor="Gray" />
-		<Label Text="Historia nastrojów:" FontSize="Medium" FontAttributes="Bold" />
-		<Label x:Name="MoodHistoryLabel" FontSize="Small" TextColor="Black" />
-	</StackLayout>
+    <StackLayout Padding="20" Spacing="10">
+        <Label Text="Jak się dziś czujesz?" FontSize="Large" HorizontalOptions="Center" />
+        <Picker x:Name="MoodPicker">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Okropny</x:String>
+                    <x:String>Zły</x:String>
+                    <x:String>Średni</x:String>
+                    <x:String>Dobry</x:String>
+                    <x:String>Fantastyczny</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Button Text="Zapisz nastrój" Clicked="OnSaveMoodClicked" />
+        <Label x:Name="TrendLabel" FontSize="Medium" TextColor="Gray" />
+        <Label Text="Historia nastrojów:" FontSize="Medium" FontAttributes="Bold" />
+        <Label x:Name="MoodHistoryLabel" FontSize="Small" TextColor="Black" />
+        <Label x:Name="Quotes" FontSize="Large" TextColor="Black"></Label>
+    </StackLayout>
 
 </ContentPage>

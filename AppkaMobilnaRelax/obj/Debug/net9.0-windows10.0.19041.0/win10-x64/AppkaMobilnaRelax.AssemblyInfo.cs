@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppkaMobilnaRelax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9e696a401fa41db8b49d5d11031c6fcffd791565")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppkaMobilnaRelax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppkaMobilnaRelax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

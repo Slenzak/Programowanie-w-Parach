@@ -948,7 +948,6 @@ C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Maui.Controls.resources.dll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\typemaps.x86_64.ll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\AndroidManifest.xml
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\AndroidManifest.xml
@@ -958,7 +957,6 @@ C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\bin\mono.android.jar
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\static.flag
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\__environment__.txt
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\environment.x86_64.ll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\src\androidx\activity\ktx\R.java
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\src\androidx\activity\R.java
@@ -1324,19 +1322,12 @@ C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\src\com\companyname\appkamobilnarelax\R.java
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\_CompileJava.FileList.txt
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.ll
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.o
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\typemaps.x86_64.o
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\environment.arm64-v8a.o
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\environment.x86_64.o
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.o
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\marshal_methods.x86_64.o
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
-C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\bin\classes.dex
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\android\bin\classes2.dex
@@ -1348,3 +1339,4 @@ C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kubol\source\repos\AppkaMobilnaRelax\AppkaMobilnaRelax\obj\Debug\net9.0-android\AppkaMobilnaRelax.sourcelink.json
